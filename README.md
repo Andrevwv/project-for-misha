@@ -1,3 +1,5 @@
+Верстка макета из Figma https://ui4free.com/download/healthy-care-landing-page-figma-template.figma
+
 ### Установка зависимостей проекта после скачивания ###
 
 npm install
